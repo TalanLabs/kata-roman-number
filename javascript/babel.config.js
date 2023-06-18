@@ -1,4 +1,4 @@
 module.exports = {
-  presets: ['@exercism/babel-preset-javascript'],
+  presets: ['@babel/preset-env'],
   plugins: [],
 };
