@@ -47,22 +47,4 @@ In Roman numerals 1990 is MCMXC:
 
 See also: http://www.novaroma.org/via_romana/numbers.html
 
-## Source
 
-### Created by
-
-- @rchavarria
-
-### Contributed to by
-
-- @ankorGH
-- @cmccandless
-- @matthewmorgan
-- @ryanplusplus
-- @serixscorpio
-- @SleeplessByte
-- @tejasbubane
-
-### Based on
-
-The Roman Numeral Kata - http://codingdojo.org/cgi-bin/index.pl?KataRomanNumerals
